@@ -3,6 +3,7 @@
  <!--  <groupId>cn.ms.mavenuse</groupId> -->
   <artifactId>ChildProject</artifactId>
   <!-- <version>0.0.1-SNAPSHOT</version> -->
+  <!--自定义的内容  -->
   <!--1. 声明父类项目  -->
   <parent>
   	<groupId>cn.ms.mavenuse</groupId>
